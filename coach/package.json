@@ -1,0 +1,13 @@
+{
+  "name": "digit-recognition-coach",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "train": "node ./train.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "NN": "link:../NN/pkg"
+  }
+}
